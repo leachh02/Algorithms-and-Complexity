@@ -6,7 +6,7 @@ Linear Data Structures and Algorithms
 
 Basic Sorting Algorithms
 
-Binary Tree, Binary Search Tree and Algorithms
+Binary Tree, Binary Search Tree, and Algorithms
 
 Advanced Sorting Algorithms
 
